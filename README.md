@@ -1,7 +1,11 @@
 # IBM AI Enterprise Workflow Capstone
 Files for the IBM AI Enterprise Workflow Capstone project. 
 
-<span style="color:red">See solutions directory for Capstone submission</span>
+```diff
+- ----------------------------------------------------
+- SEE solutions DIRECTORY FOR CAPSTONE SUBMISSION.
+- ----------------------------------------------------
+```
 
 ## Part 1
 
