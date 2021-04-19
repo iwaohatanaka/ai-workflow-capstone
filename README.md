@@ -3,7 +3,7 @@ Files for the IBM AI Enterprise Workflow Capstone project.
 
 ```diff
 - ----------------------------------------------------
-- SEE solutions DIRECTORY FOR CAPSTONE SUBMISSION.
+- SEE solution DIRECTORY FOR CAPSTONE SUBMISSION.
 - ----------------------------------------------------
 ```
 
