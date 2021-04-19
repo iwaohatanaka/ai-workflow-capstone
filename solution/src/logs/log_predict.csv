@@ -1,0 +1,2 @@
+log_id,date_time,country,Y_pred,y_proba,target_date,runtime,model_version,test
+d44498c4,2021-04-18 20:55:46.653359,all,[184100.856],None,2018-01-05,000:00:27,0.1,False

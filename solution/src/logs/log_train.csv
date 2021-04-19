@@ -1,0 +1,14 @@
+log_id,date_time,tag,dates,performance,runtime,model_version,model_version_note,test
+b41c93f6,2021-04-18 20:47:09.006203,united_kingdom,"('2017-12-07', '2019-05-30')",{'rmse': 32875.0},000:00:07,0.1,supervised learing model for time-series,True
+a389f71a,2021-04-18 20:47:12.895529,all,"('2017-12-03', '2019-05-26')",{'rmse': 45774.0},000:00:03,0.1,supervised learing model for time-series,True
+348d0905,2021-04-18 20:53:56.482712,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 384.0},000:00:07,0.1,supervised learing model for time-series,True
+e41b914c,2021-04-18 20:54:03.090816,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 21095.0},000:00:06,0.1,supervised learing model for time-series,True
+6394f9b9,2021-04-18 20:54:06.154156,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 1004.0},000:00:03,0.1,supervised learing model for time-series,True
+22756869,2021-04-18 20:54:12.797347,eire,"('2017-11-29', '2019-05-31')",{'rmse': 1700.0},000:00:06,0.1,supervised learing model for time-series,True
+94dac193,2021-04-18 20:54:19.359721,spain,"('2017-12-01', '2019-05-31')",{'rmse': 327.0},000:00:06,0.1,supervised learing model for time-series,True
+0bbaede8,2021-04-18 20:54:25.907202,france,"('2017-11-29', '2019-05-31')",{'rmse': 592.0},000:00:06,0.1,supervised learing model for time-series,True
+44c646b7,2021-04-18 20:54:28.952231,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 2741.0},000:00:03,0.1,supervised learing model for time-series,True
+f5963f19,2021-04-18 20:54:35.224305,all,"('2017-11-29', '2019-05-31')",{'rmse': 18720.0},000:00:06,0.1,supervised learing model for time-series,True
+f2c92181,2021-04-18 20:54:39.154453,norway,"('2017-12-05', '2019-05-11')",{'rmse': 61.0},000:00:03,0.1,supervised learing model for time-series,True
+629bd0cc,2021-04-18 20:54:45.730483,germany,"('2017-11-29', '2019-05-31')",{'rmse': 502.0},000:00:06,0.1,supervised learing model for time-series,True
+9e0e4bc4,2021-04-18 20:54:52.100103,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 138.0},000:00:06,0.1,supervised learing model for time-series,True
