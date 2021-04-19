@@ -3,11 +3,11 @@ Files for the IBM AI Enterprise Workflow Capstone submission.
 
 ## Part 1 - Data Investigation
 
-Open Jupyter Notebook: part1-data-investigation.ipynb
+Open Jupyter Notebook: [part1-data-investigation.ipynb](./part1-data-investigation.ipynb)
 
 ## Part 2 - Model Building/Selection
 
-Open Jupyter Notebook: part2-model-building-and-selection.ipynb
+Open Jupyter Notebook: [part2-model-building-and-selection.ipynb](./part2-model-building-and-selection.ipynb)
 
 ## Part 3 - Model Production
 ### Application Deployment 
